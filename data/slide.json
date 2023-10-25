@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Our team",
+    "image": "img/slide/1.png"
+  },
+  {
+    "title": "Developing",
+    "image": "img/slide/2.jpeg"
+  },
+  {
+    "title": "Innovation",
+    "image": "img/slide/slide03.webp",
+    "color": "text-black"
+  }
+]
